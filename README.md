@@ -41,7 +41,8 @@ Begitupula dengan di database.
 - ![](https://github.com/aditya-sultan/Lab8Web/blob/master/schreenshoot/Capture(6).PNG)
 
 # Menghapus
-Berikutnya kita akan buat menu untuk menghapus data. Kita buat file baru lagi dengan nama ![hapus.php](https://github.com/aditya-sultan/Lab8Web/blob/master/hapus.php). Apabila kita klik menu yang satu ini pada salah satu data yang kita pilih, maka data tersebut akan terhapus.
+Berikutnya kita akan buat menu untuk menghapus data. Kita buat file baru lagi dengan nama ![hapus.php](https://github.com/aditya-sultan/Lab8Web/blob/master/hapus.php)
+Apabila kita klik menu yang satu ini pada salah satu data yang kita pilih, maka data tersebut akan terhapus.
 
 
 # Sekian dari saya
